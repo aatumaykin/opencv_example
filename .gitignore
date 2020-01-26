@@ -1,0 +1,6 @@
+images/
+dest/
+vendor/
+.DS_Store
+compare
+.idea
