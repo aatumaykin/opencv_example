@@ -2,11 +2,12 @@
 
 INSTALL
     
-    pip install opencv-python numpy
+    pip install opencv-python numpy visual-logging imutils
     
 RUN
 
     python main.py -i ../data/tetris_blocks.png
+
 
 ### Полезные материалы
 
