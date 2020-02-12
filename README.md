@@ -25,6 +25,9 @@
 * [Детектирование объектов - нейросетевой подход](http://robocraft.ru/blog/computervision/3640.html)
 * [Python OpenCV: Rubik's cube solver color extraction](https://stackoverflow.com/questions/24916870/python-opencv-rubiks-cube-solver-color-extraction)
 * [Real Life Object Detection using OpenCV – Detecting objects in Live Video](https://circuitdigest.com/tutorial/real-life-object-detection-using-opencv-python-detecting-objects-in-live-video)
+* [Computer Vision Using OpenCV](https://dzone.com/articles/opencv-python-tutorial-computer-vision-using-openc)
+* [Учим ESP32-cam вещать потоковое видео по rtsp протоколу](http://psenyukov.ru/%D1%83%D1%87%D0%B8%D0%BC-esp32-cam-%D0%B2%D0%B5%D1%89%D0%B0%D1%82%D1%8C-%D0%BF%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%B2%D0%BE%D0%B5-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE-%D0%BF%D0%BE-rtsp-%D0%BF%D1%80%D0%BE%D1%82/)
+* [Scraping images with Python and Scrapy](https://www.pyimagesearch.com/2015/10/12/scraping-images-with-python-and-scrapy/)
 
 ## HABR.COM
 
@@ -123,8 +126,36 @@ A series of convenience functions to make basic image processing functions such 
 * [Home surveillance and motion detection with the Raspberry Pi, Python, OpenCV, and Dropbox](https://www.pyimagesearch.com/2015/06/01/home-surveillance-and-motion-detection-with-the-raspberry-pi-python-and-opencv/)
 * [Generating art with guided deep dreaming.](https://www.pyimagesearch.com/2015/07/13/generating-art-with-guided-deep-dreaming/)
 * [Blur detection with OpenCV](https://www.pyimagesearch.com/2015/09/07/blur-detection-with-opencv/)
-
+* [Ball Tracking with OpenCV](https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/)
+* [OpenCV Track Object Movement](https://www.pyimagesearch.com/2015/09/21/opencv-track-object-movement/)
+* [Implementing the Max RGB filter in OpenCV](https://www.pyimagesearch.com/2015/09/28/implementing-the-max-rgb-filter-in-opencv/)
+* [OpenCV Gamma Correction](https://www.pyimagesearch.com/2015/10/05/opencv-gamma-correction/)
+* [Watershed OpenCV](https://www.pyimagesearch.com/2015/11/02/watershed-opencv/)
+* [Pedestrian Detection OpenCV](https://www.pyimagesearch.com/2015/11/09/pedestrian-detection-opencv/)
+* [HOG detectMultiScale parameters explained](https://www.pyimagesearch.com/2015/11/16/hog-detectmultiscale-parameters-explained/)
+* [Detecting machine-readable zones in passport images](https://www.pyimagesearch.com/2015/11/30/detecting-machine-readable-zones-in-passport-images/)
+* [Local Binary Patterns with Python & OpenCV](https://www.pyimagesearch.com/2015/12/07/local-binary-patterns-with-python-opencv/)
+* [Increasing webcam FPS with Python and OpenCV](https://www.pyimagesearch.com/2015/12/21/increasing-webcam-fps-with-python-and-opencv/)
+* [OpenCV panorama stitching](https://www.pyimagesearch.com/2016/01/11/opencv-panorama-stitching/)
+* [Real-time panorama and image stitching with OpenCV](https://www.pyimagesearch.com/2016/01/25/real-time-panorama-and-image-stitching-with-opencv/)
+* [OpenCV center of contour](https://www.pyimagesearch.com/2016/02/01/opencv-center-of-contour/)
+* [OpenCV shape detection](https://www.pyimagesearch.com/2016/02/08/opencv-shape-detection/)
+* [Determining object color with OpenCV](https://www.pyimagesearch.com/2016/02/15/determining-object-color-with-opencv/)
+* [Writing to video with OpenCV](https://www.pyimagesearch.com/2016/02/22/writing-to-video-with-opencv/)
+* [Transparent overlays with OpenCV](https://www.pyimagesearch.com/2016/03/07/transparent-overlays-with-opencv/)
 * [Ordering coordinates clockwise with Python and OpenCV](https://www.pyimagesearch.com/2016/03/21/ordering-coordinates-clockwise-with-python-and-opencv/)
+* [Measuring size of objects in an image with OpenCV](https://www.pyimagesearch.com/2016/03/28/measuring-size-of-objects-in-an-image-with-opencv/)
+* [Measuring distance between objects in an image with OpenCV](https://www.pyimagesearch.com/2016/04/04/measuring-distance-between-objects-in-an-image-with-opencv/)
+* [Finding extreme points in contours with OpenCV](https://www.pyimagesearch.com/2016/04/11/finding-extreme-points-in-contours-with-opencv/)
+* [Watermarking images with OpenCV and Python](https://www.pyimagesearch.com/2016/04/25/watermarking-images-with-opencv-and-python/)
+* [Detecting cats in images with OpenCV](https://www.pyimagesearch.com/2016/06/20/detecting-cats-in-images-with-opencv/)
+* [k-NN classifier for image classification](https://www.pyimagesearch.com/2016/08/08/k-nn-classifier-for-image-classification/)
+* [Bubble sheet multiple choice scanner and test grader using OMR, Python and OpenCV](https://www.pyimagesearch.com/2016/10/03/bubble-sheet-multiple-choice-scanner-and-test-grader-using-omr-python-and-opencv/)
+* [Intersection over Union (IoU) for object detection](https://www.pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/)
+* [Rotate images (correctly) with OpenCV and Python](https://www.pyimagesearch.com/2017/01/02/rotate-images-correctly-with-opencv-and-python/)
+* [Count the total number of frames in a video with OpenCV and Python](https://www.pyimagesearch.com/2017/01/09/count-the-total-number-of-frames-in-a-video-with-opencv-and-python/)
+
+
 * [Recognizing digits with OpenCV and Python](https://www.pyimagesearch.com/2017/02/13/recognizing-digits-with-opencv-and-python/)
 * [Text skew correction with OpenCV and Python](https://www.pyimagesearch.com/2017/02/20/text-skew-correction-opencv-python/)
 * [Facial landmarks with dlib, OpenCV, and Python](https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/)
@@ -199,7 +230,7 @@ A series of convenience functions to make basic image processing functions such 
 * [Install dlib on the Raspberry Pi](https://www.pyimagesearch.com/2017/05/01/install-dlib-raspberry-pi/)
 * [Робот-танк на Raspberry Pi с OpenCV](https://habr.com/ru/post/358230/)
 * [Зрение для робота на Raspberry Pi: карта глубин](https://habr.com/ru/post/388259/)
-
+* [Multiple cameras with the Raspberry Pi and OpenCV](https://www.pyimagesearch.com/2016/01/18/multiple-cameras-with-the-raspberry-pi-and-opencv/)
 
 ## OpenCV шаг за шагом
 
