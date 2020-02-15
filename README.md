@@ -154,6 +154,10 @@ A series of convenience functions to make basic image processing functions such 
 * [Intersection over Union (IoU) for object detection](https://www.pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/)
 * [Rotate images (correctly) with OpenCV and Python](https://www.pyimagesearch.com/2017/01/02/rotate-images-correctly-with-opencv-and-python/)
 * [Count the total number of frames in a video with OpenCV and Python](https://www.pyimagesearch.com/2017/01/09/count-the-total-number-of-frames-in-a-video-with-opencv-and-python/)
+* [Convolutions with OpenCV and Python](https://www.pyimagesearch.com/2016/07/25/convolutions-with-opencv-and-python/)
+* [LeNet – Convolutional Neural Network in Python](https://www.pyimagesearch.com/2016/08/01/lenet-convolutional-neural-network-in-python/)
+* [k-NN classifier for image classification](https://www.pyimagesearch.com/2016/08/08/k-nn-classifier-for-image-classification/)
+* [ImageNet classification with Python and Keras](https://www.pyimagesearch.com/2016/08/10/imagenet-classification-with-python-and-keras/)
 
 
 * [Recognizing digits with OpenCV and Python](https://www.pyimagesearch.com/2017/02/13/recognizing-digits-with-opencv-and-python/)
