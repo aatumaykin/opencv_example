@@ -158,8 +158,16 @@ A series of convenience functions to make basic image processing functions such 
 * [LeNet – Convolutional Neural Network in Python](https://www.pyimagesearch.com/2016/08/01/lenet-convolutional-neural-network-in-python/)
 * [k-NN classifier for image classification](https://www.pyimagesearch.com/2016/08/08/k-nn-classifier-for-image-classification/)
 * [ImageNet classification with Python and Keras](https://www.pyimagesearch.com/2016/08/10/imagenet-classification-with-python-and-keras/)
-
-
+* [How to tune hyperparameters with Python and scikit-learn
+](https://www.pyimagesearch.com/2016/08/15/how-to-tune-hyperparameters-with-python-and-scikit-learn/)
+* [An intro to linear classification with Python](https://www.pyimagesearch.com/2016/08/22/an-intro-to-linear-classification-with-python/)
+* [Multi-class SVM Loss](https://www.pyimagesearch.com/2016/09/05/multi-class-svm-loss/)
+* [Softmax Classifiers Explained](https://www.pyimagesearch.com/2016/09/12/softmax-classifiers-explained/)
+* [Understanding regularization for image classification and machine learning](https://www.pyimagesearch.com/2016/09/19/understanding-regularization-for-image-classification-and-machine-learning/)
+* [A simple neural network with Python and Keras](https://www.pyimagesearch.com/2016/09/26/a-simple-neural-network-with-python-and-keras/)
+* [Gradient descent with Python](https://www.pyimagesearch.com/2016/10/10/gradient-descent-with-python/)
+* [Detecting multiple bright spots in an image with Python and OpenCV](https://www.pyimagesearch.com/2016/10/31/detecting-multiple-bright-spots-in-an-image-with-python-and-opencv/)
+* [Intersection over Union (IoU) for object detection](https://www.pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/)
 * [Recognizing digits with OpenCV and Python](https://www.pyimagesearch.com/2017/02/13/recognizing-digits-with-opencv-and-python/)
 * [Text skew correction with OpenCV and Python](https://www.pyimagesearch.com/2017/02/20/text-skew-correction-opencv-python/)
 * [Facial landmarks with dlib, OpenCV, and Python](https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/)
